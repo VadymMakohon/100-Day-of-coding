@@ -53,3 +53,6 @@ We'll take you step-by-step through engaging video tutorials and teach you every
 ---
 
 **Enroll now and start your journey to becoming a Python pro today!**
+
+ # Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
